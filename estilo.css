@@ -6,14 +6,19 @@ body{
 }
 header{
     background: white;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
 }
 .principal{
     background-color: blueviolet;
-    text-align: center;
-    margin: 200px;
+    text-align: right;
+    margin: 50px;
+    padding: 50px;
 }
 .segundo{
     background-color: rgb(21, 163, 163);
-    text-align: right;
-    padding: 200px;
+    text-align: left;
+    margin:50px ;
+    padding: 50px;
 }
