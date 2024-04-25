@@ -10,8 +10,10 @@ header{
 .principal{
     background-color: blueviolet;
     text-align: center;
+    margin: 200px;
 }
 .segundo{
     background-color: rgb(21, 163, 163);
     text-align: right;
+    padding: 200px;
 }
