@@ -1,0 +1,17 @@
+body{
+    background-image: url('https://s1.1zoom.me/b5050/88/Toys_Trains_Colored_background_607681_1920x1200.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+header{
+    background: white;
+}
+.principal{
+    background-color: blueviolet;
+    text-align: center;
+}
+.segundo{
+    background-color: rgb(21, 163, 163);
+    text-align: right;
+}
