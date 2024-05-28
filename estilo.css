@@ -11,10 +11,10 @@ header{
     padding: 50px;
 }
 .principal{
-    background-color: blueviolet;
-    text-align: right;
-    margin: 50px;
-    padding: 50px;
+    
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
 }
 .segundo{
     background-color: rgb(21, 163, 163);
@@ -28,4 +28,8 @@ header{
     border: solid;
     border-radius: 5px;
     border-color: rgb(255, 8, 0);
+}
+nav .brand-logo img{
+    max-height: 50px; /*Es para controlar la altura maxima de la imagen*/
+    width: auto; /*Para controlar automaticamaticamente lo ancho de la imagen*/
 }
